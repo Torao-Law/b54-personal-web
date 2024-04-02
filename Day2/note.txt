@@ -1,0 +1,15 @@
+inline element : - lebarnya hanya sebatas lebar dari ukuran konten
+block element : - ngeblock seluruh lebar container / pembungkus
+
+semantic & non semantic
+
+selector (class & id) class bisa digunakan lebih dari 1 element, id harus unik ga boleh sama antar selector lainnya
+
+penulisan css 3 : inline (attribute style), internal (<style></style>), external (file .css)
+
+hierarky css (prioritas styling css) => inline styling > id > class > tag
+
+ul = unorder list
+ol = order list 
+
+li = list item
